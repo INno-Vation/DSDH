@@ -1,14 +1,14 @@
-# Towards Accurate Acne Detection via Decoupled Sequential Detection Head
+# Decoupled Sequential Detection Head for Accurate Acne Detection
 
 This project contains a Pytorch implementation of the paper:
-> Towards Accurate Acne Detection via Decoupled Sequential Detection Head
+> Decoupled Sequential Detection Head for Accurate Acne Detection
 
 ## Introduction
 This code is implemented based on Detectron2:
 > https://github.com/facebookresearch/detectron2
 
 ## DSDH
-Our Decoupled Sequential Detection Head is located in:
+Our Decoupled Sequential Detection Head (DSDH) is located in:
 > Code/detectron2/modeling/roi_heads/roi_heads.py/My_StandardROIHeads
 
 ## Training

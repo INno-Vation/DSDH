@@ -21,5 +21,8 @@ python Code/main/Training.py --config-file ../configs/COCO-InstanceSegmentation/
 python Code/main/Evaluate.py
 ```
 
+## Example
+Some visualization examples of the detection results are presented in "Example."
+
 ## Dataset
 Our dataset ACNE-DET (labelme format) could be accessed at [Baidu](https://pan.baidu.com/s/1Do8CQ6rsH1aNghYV49T6BA) (password: d0a1).
